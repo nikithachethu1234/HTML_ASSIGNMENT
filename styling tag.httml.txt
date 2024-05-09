@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> Inline Styling </title>
+<style>
+h1{
+color:blue;
+front-size:20px;
+}
+</style>
+<head>
+<body>
+	<h1 style ="color:red;front-size:18px">
+This is Inline Styling
+</h1>
+<h1>
+this is secondary heading
+</h1>
+<h1>
+this is third heading
+</h1>
+</body>
+<html>
